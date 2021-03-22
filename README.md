@@ -6,7 +6,7 @@
 
 ## 요구사항
 * `Unity` (>= 2019.3.5f1)
-* `Visual Studio Code`추천
+* `JetBrains Rider`추천
 
 ## 실행방법
 * [**여기**](https://github.com/LeapRealm/Hands-On-Unity-Game-Programming-Essence/archive/master.zip)에서 압축파일을 다운로드해서 압축을 풀거나 깃 사용법을 안다면 저장소를 클론합니다.
